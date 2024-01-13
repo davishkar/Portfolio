@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This repository contains the code for my onlin
 
 ## Live Demo
 
-You can view the live demo of my portfolio [here](https://your-username.github.io/portfolio).
+You can view the live demo of my portfolio [here](https://davishkar.github.io/Portfolio/).
 
 ## Table of Contents
 
